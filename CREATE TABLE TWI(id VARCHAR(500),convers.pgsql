@@ -1,0 +1,10 @@
+CREATE TABLE TWI(id VARCHAR(500),conversation_id VARCHAR(500),created_at VARCHAR(500),
+date VARCHAR(500),time VARCHAR(500),timezone VARCHAR(500),user_id VARCHAR(500),username VARCHAR(500),
+name VARCHAR(500),place VARCHAR(500),tweet VARCHAR(500),language VARCHAR(500),mentions VARCHAR(500),
+urls VARCHAR(500),photos VARCHAR(500),replies_count VARCHAR(500),retweets_count VARCHAR(500),
+likes_count VARCHAR(500),hashtags VARCHAR(500),cashtags VARCHAR(500),link VARCHAR(500),
+retweet VARCHAR(500),
+quote_url VARCHAR(500),video VARCHAR(500),
+thumbnail VARCHAR(500),near VARCHAR(500),geo VARCHAR(100),source VARCHAR(100),
+user_rt_id VARCHAR(100),user_rt VARCHAR(500),retweet_id VARCHAR(500),reply_to VARCHAR(500),
+retweet_date VARCHAR(500),translate VARCHAR(500),trans_src VARCHAR(500),trans_dest VARCHAR(500));
